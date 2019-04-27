@@ -27,6 +27,7 @@
 
 .paint-canvas-background {
 	background-image: url("images/transparent.png");
+	background-repeat: no-repeat;
 }
 
 .paint-selected-tool {
